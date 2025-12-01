@@ -1,17 +1,7 @@
-[
-    {
-        "img1": "http://cinetop.co.mz/storage/images/202510/A_Lista_Terminal__Lobo_Negro_poster_horizontal_1760956292496_300x300.jpg"
-    },
-    {
-        "img2": "http://cinetop.co.mz/storage/images/202510/Cacador_de_Demonios_poster_horizontal_1760953087299_300x300.jpg"
-    },
-    {
-        "img3": "http://cinetop.co.mz/storage/images/202504/Solo_Leveling_poster_horizontal_1745380137822_300x300.jpg"
-    },
-    {
-        "img4": "http://cinetop.co.mz/storage/images/202404/Duna__Parte_2_poster_vertical_1713847227115_720x480.jpg"
-    },
-    {
-        "img5": "http://cinetop.co.mz/storage/images/202409/Cinquenta_Tons_Mais_Escuros_poster_horizontal_1725421017406_300x300.jpg"
-    }
-]
+{
+  "img1": "http://cinetop.co.mz/storage/images/202510/A_Lista_Terminal__Lobo_Negro_poster_horizontal_1760956292496_300x300.jpg",
+  "img2": "http://cinetop.co.mz/storage/images/202510/Cacador_de_Demonios_poster_horizontal_1760953087299_300x300.jpg",
+  "img3": "http://cinetop.co.mz/storage/images/202504/Solo_Leveling_poster_horizontal_1745380137822_300x300.jpg",
+  "img4": "http://cinetop.co.mz/storage/images/202404/Duna__Parte_2_poster_vertical_1713847227115_720x480.jpg",
+  "img5": "http://cinetop.co.mz/storage/images/202409/Cinquenta_Tons_Mais_Escuros_poster_horizontal_1725421017406_300x300.jpg"
+}
